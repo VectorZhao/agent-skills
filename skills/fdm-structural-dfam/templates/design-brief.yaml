@@ -1,0 +1,39 @@
+# unknown 表示尚未获得实际数据，不能当作零载荷。
+project: unknown
+process: FDM
+units: mm_N_MPa
+purpose: unknown
+criticality: unknown
+printer:
+  model: unknown
+  slicer_version: unknown
+  firmware_version: unknown
+  main_nozzle_mm: unknown
+  auxiliary_nozzle_mm: unknown
+material:
+  manufacturer: unknown
+  grade: unknown
+  property_source: unknown
+  drying_condition: unknown
+geometry:
+  bounding_box_mm: unknown
+  interfaces: unknown
+  mounting_hardware: unknown
+load_cases:
+  - name: unknown
+    force_N: unknown
+    application_point_mm: unknown
+    moment_N_mm: unknown
+    constraints: unknown
+    load_duration: unknown
+    cycles: unknown
+environment:
+  temperature_C: unknown
+  humidity: unknown
+  UV_exposure: unknown
+  chemicals: unknown
+acceptance:
+  displacement_limit_mm: unknown
+  failure_criteria: unknown
+  verification_plan: unknown
+assumptions: []

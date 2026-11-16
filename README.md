@@ -7,6 +7,7 @@
 | Skill | 用途 |
 | --- | --- |
 | [fdm-structural-dfam](skills/fdm-structural-dfam/SKILL.md) | 在 FDM/FFF 功能件建模阶段考虑载荷路径、局部失效、层间剥离、连接、打印方向、材料与验证。通用核心适用于 X2D，另有按需读取的机型核对说明。 |
+| [scientific-plot](skills/scientific-plot/SKILL.md) | 地球科学科研绘图，支持多子图排版以及 PDF、JPG 输出。 |
 | [read-wechat-articles](skills/read-wechat-articles/SKILL.md) | 读取微信公众号公开文章并提取正文和文章信息，供摘要、核验或评论使用。 |
 
 ## 使用
